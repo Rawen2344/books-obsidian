@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "209b5839b7193d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b6f95728b159e5b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📙 Książki/Lila Weneda.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e19f20cd7f5a4126",
+    "type": "split",
+    "children": [
+      {
+        "id": "75f26ce461ed4ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1409fedb5dc4730",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "45f6d709644389fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.00258445739746
+  },
+  "right": {
+    "id": "f4bc05ebe2b012f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9d74b642ddb6a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e34ed1d94c9bb6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📙 Książki/Lila Weneda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5d70ce8749e8b69",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b6f95728b159e5b",
+  "lastOpenFiles": [
+    "📙 Książki/Lila Weneda.md",
+    "Excalidraw/Drawing 2022-04-17 16.41.39.excalidraw.md"
+  ]
+}
